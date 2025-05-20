@@ -19,7 +19,7 @@ A responsive and modern **Car Rental Website** developed using React.js. This pr
 
 ## 🚀 Demo
 
-🔗 **Live Demo**: *[Add your live link here if deployed]*  
+🔗 **Live Demo**: *[(https://datchany.github.io/Car-Rental-Website/)]*  
 📁 **GitHub Repo**: [https://github.com/Datchany/Car-Rental-Website](https://github.com/Datchany/Car-Rental-Website)
 
 ---
