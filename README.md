@@ -1,56 +1,56 @@
-**Car Rental Website 🚗**
-This is a responsive and user-friendly Car Rental Website built using React.js and CSS, bootstrapped with Create React App. The application is designed as part of an E-Business frontend task and showcases essential features of a rental service platform.
+# 🚗 Car Rental Website
 
-🔧** Features**
-Landing page with smooth scrolling and clear CTA
+A responsive and modern **Car Rental Website** developed using React.js. This project is part of an E-Business frontend assignment and showcases a clean UI, essential features for renting cars, and a smooth user experience.
 
-Car listing section to showcase available rental options
+---
 
-Services section highlighting offerings
+## 📌 Table of Contents
 
-Contact form to gather customer queries
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Folder Structure](#folder-structure)
+- [Available Scripts](#available-scripts)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
 
-Responsive layout for all screen sizes
+---
 
-Clean and modular component structure
+## 🚀 Demo
 
-🛠️ **Technologies Used**
-React.js
+🔗 **Live Demo**: *[Add your live link here if deployed]*  
+📁 **GitHub Repo**: [https://github.com/Datchany/Car-Rental-Website](https://github.com/Datchany/Car-Rental-Website)
 
-HTML5 & CSS3
+---
 
-JavaScript (ES6)
+## ✨ Features
 
-React Router (if used)
+- 💻 Clean and responsive design
+- 🏎️ Car listing section
+- 📋 Services overview
+- 📞 Contact form
+- 🧭 Smooth navigation
+- 📱 Mobile-friendly layout
 
-Icons (FontAwesome or similar)
+---
 
-🖥️ **Getting Started
-To run the app locally:**
+## 🛠 Technologies Used
 
-bash
-Copy
-Edit
+- **React.js** – Frontend framework
+- **HTML5 & CSS3** – Markup and styling
+- **JavaScript (ES6)** – Interactivity
+- **React Router** – Navigation (if used)
+- **FontAwesome / Icons** – Visual enhancements
+
+---
+
+## ⚙️ Getting Started
+
+To run the project locally, follow these steps:
+
+```bash
 git clone https://github.com/Datchany/Car-Rental-Website.git
 cd Car-Rental-Website
 npm install
 npm start
-The application will run on http://localhost:3000
-
-📦** Production Build**
-To create an optimized production build:
-
-bash
-Copy
-Edit
-npm run build
-📁 Folder Structure
-/src – All the main code and components
-
-/public – Static files and index.html
-
-📬** Contact**
-For feedback or queries:
-📧 rdatchany530@gmail.com
-🔗 LinkedIn
-
