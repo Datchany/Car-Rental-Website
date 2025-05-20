@@ -1,7 +1,7 @@
-Car Rental Website 🚗
+**Car Rental Website 🚗**
 This is a responsive and user-friendly Car Rental Website built using React.js and CSS, bootstrapped with Create React App. The application is designed as part of an E-Business frontend task and showcases essential features of a rental service platform.
 
-🔧 Features
+🔧** Features**
 Landing page with smooth scrolling and clear CTA
 
 Car listing section to showcase available rental options
@@ -14,7 +14,7 @@ Responsive layout for all screen sizes
 
 Clean and modular component structure
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 React.js
 
 HTML5 & CSS3
@@ -25,8 +25,8 @@ React Router (if used)
 
 Icons (FontAwesome or similar)
 
-🖥️ Getting Started
-To run the app locally:
+🖥️ **Getting Started
+To run the app locally:**
 
 bash
 Copy
@@ -37,7 +37,7 @@ npm install
 npm start
 The application will run on http://localhost:3000
 
-📦 Production Build
+📦** Production Build**
 To create an optimized production build:
 
 bash
@@ -49,7 +49,7 @@ npm run build
 
 /public – Static files and index.html
 
-📬 Contact
+📬** Contact**
 For feedback or queries:
 📧 rdatchany530@gmail.com
 🔗 LinkedIn
